@@ -2,6 +2,22 @@
 
 A 4-page analytics dashboard built in Databricks SQL to evaluate business performance, key drivers, customer cohorts, and customer delivery experience.
 
+## Screenshots
+
+### Page 1 — Executive Summary & Trends
+![Page 1 — Executive Summary](docs/screenshots/page1_executive_summary.png)
+
+### Page 2 — Drivers
+![Page 2 — Drivers](docs/screenshots/page2_drivers.png)
+
+### Page 3 — Cohorts
+![Page 3 — Cohorts](docs/screenshots/page3_cohorts.png)
+
+### Page 4 — Customer Experience
+![Page 4 — Customer Experience](docs/screenshots/page4_customer_experience.png)
+
+Additional screenshots are available in `docs/screenshots/`.
+
 ## What this project demonstrates
 - Data modeling mindset (raw → staging → mart)
 - KPI design with guardrails (active-month filtering to avoid “ghost months”)
