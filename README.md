@@ -46,6 +46,8 @@ Additional screenshots are available in `docs/screenshots/`.
 ## Artifacts
 - **Dashboard explainer (PDF):** `docs/Ecommerce_Dashboard_Overview.pdf`
 - Dashboard screenshots: `docs/screenshots/`
+- **SQL used for dashboard tiles:** [`sql/`](sql/) (see `sql/README.md` for the index)
+
 
 ## Tech stack
 - Databricks SQL (Unity Catalog)
