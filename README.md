@@ -4,6 +4,8 @@ A 4-page analytics dashboard built in Databricks SQL to evaluate business perfor
 
 ## Screenshots
 
+Tableau Public Dashboard: https://public.tableau.com/app/profile/cameron.scott3127/viz/E-CommerceDriversDashboard/Dashboard1?publish=yes
+
 ### Page 1 — Executive Summary & Trends
 ![Page 1 — Executive Summary](docs/screenshots/page1_executive_summary.png)
 
