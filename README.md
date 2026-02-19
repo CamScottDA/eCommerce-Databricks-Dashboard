@@ -67,3 +67,4 @@ Additional screenshots are available in `docs/screenshots/`.
 
 ## Data notes
 This project uses a sample e-commerce dataset. Raw data is not included in this repository.
+I do not publish client or employer datasets. Additional sample projects using anonymized/synthetic data are in progress.
