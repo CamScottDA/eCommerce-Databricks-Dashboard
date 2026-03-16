@@ -4,7 +4,7 @@ A 4-page analytics dashboard built in Databricks SQL to evaluate business perfor
 
 ## Tableau Public (Interactive)
 Tableau Dashboard (Drivers + Geo):
-https://public.tableau.com/app/profile/cameron.scott3127/viz/E-CommerceDriversDashboard/Dashboard1?publish=yes
+[https://public.tableau.com/app/profile/cameron.scott3127/vizzes]
 
 **Note:** The Tableau workbook includes a **Geo Analysis** dashboard. Use the in-dashboard navigation button to switch from the Drivers view to Geo.
 
