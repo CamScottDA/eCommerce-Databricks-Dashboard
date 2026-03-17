@@ -6,7 +6,7 @@ A 4-page analytics dashboard built in Databricks SQL to evaluate business perfor
 Tableau Dashboard (Drivers + Geo):
 [https://public.tableau.com/app/profile/cameron.scott3127/vizzes]
 
-**Note:** The Tableau workbook includes a **Geo Analysis** dashboard. Use the in-dashboard navigation button to switch from the Drivers view to Geo.
+**Note:** The Tableau workbook includes a **Geo Analysis** dashboard. Use the in-dashboard navigation button to switch from the Drivers view to Geo. For this project, I put together a quick and simple dashboard.
 
 ## Screenshots
 
